@@ -7,8 +7,10 @@ import os
 
 
 app = Flask(__name__)
-link_banco = os.getenv("DATABASE_URL")
-# link_banco = "sqlite:///comunidade.db"
+if os.getenv("DATABASE_URL"):
+    link_banco = os.getenv("DATABASE_URL")
+else:
+    link_banco = "sqlite:///comunidade.db"
 app.config["SQLALCHEMY_DATABASE_URI"] = link_banco
 app.config["SECRET_KEY"] = SECRET_KEY
 app.config["UPLOAD_FOLDER"] = "static/fotos_posts"
