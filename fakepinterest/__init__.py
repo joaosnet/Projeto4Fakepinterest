@@ -6,7 +6,7 @@ from segredos import SECRET_KEY
 import os
 
 app = Flask(__name__)
-if os.getenv("DEBUG") == 0:
+if os.getenv("DEBUG") == "0":
     link_banco = os.getenv("DATABASE_URL")
 else:
     link_banco = "sqlite:///comunidade.db"
