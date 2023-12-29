@@ -7,7 +7,7 @@ import os
 
 
 app = Flask(__name__)
-if os.getenv("DATABASE_URL"):
+if "DEBUG" == 0:
     link_banco = os.getenv("DATABASE_URL")
 else:
     link_banco = "sqlite:///comunidade.db"
