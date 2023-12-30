@@ -5,19 +5,20 @@
 ![GitHub forks](https://img.shields.io/github/forks/joaosnet/Projeto4Fakepinterest?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joaosnet/Projeto4Fakepinterest?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/Projeto4Fakepinterest?style=for-the-badge)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/Projeto4Fakepinterest/blob/master/README.pt-br.md)
 
 <img align="right" height="256" src="https://github.com/joaosnet/Projeto4Fakepinterest/blob/main/images/1_APP.png"/>
 
-## Descrição do Projeto
+## Project Description
 
-Projeto que fiz com flask com base no layout do Pinterest o link para o site é esse [FakePinterest](https://projeto4fakepinterest.onrender.com)
-
-
-
-### Ajustes e melhorias
+Project I made with Flask based on the Pinterest layout. The link to the website is [FakePinterest](https://projeto4fakepinterest.onrender.com).
 
 
-## 🤝 Colaboradores
+
+### Adjustments and Improvements
+
+
+## 🤝 Contributors
 
 <table>
   <tr>
@@ -34,13 +35,13 @@ Projeto que fiz com flask com base no layout do Pinterest o link para o site é 
 
 
 
-## 📫 Contribuindo para InclusiveWay
+## 📫 Contributing to FakePinterest
 
-Se você deseja contribuir para o desenvolvimento do aplicativo, siga os passos abaixo:
+If you want to contribute to the development of the application, follow the steps below:
 
-1. Faça um fork do repositório
-2. Clone o fork para o seu ambiente local
-3. Crie uma branch para suas alterações (`git checkout -b nome-da-sua-branch`)
-4. Faça commit das suas alterações (`git commit -m 'Descrição das alterações'`)
-5. Faça push para a branch (`git push origin nome-da-sua-branch`)
-6. Abra um pull request no repositório original
+1. Fork the repository
+2. Clone the fork to your local environment
+3. Create a branch for your changes (`git checkout -b your-branch-name`)
+4. Commit your changes (`git commit -m 'Description of the changes'`)
+5. Push to the branch (`git push origin your-branch-name`)
+6. Open a pull request in the original repository
