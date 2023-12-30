@@ -7,7 +7,7 @@
 ![Pull requests abertos do Bitbucket](https://img.shields.io/bitbucket/pr-raw/joaosnet/Projeto4Fakepinterest?style=for-the-badge)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joaosnet/Projeto4Fakepinterest/blob/master/README.md)
 
-<img align="right" height="256" src="https://github.com/joaosnet/Projeto4Fakepinterest/blob/main/screenshots/homepage.png"/>
+<img src="https://github.com/joaosnet/Projeto4Fakepinterest/blob/main/screenshots/homepage.png"/>
 
 ## Descrição do Projeto
 
