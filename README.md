@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/Projeto4Fakepinterest?style=for-the-badge)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/Projeto4Fakepinterest/blob/master/README.pt-br.md)
 
-<img align="right" height="256" src="https://github.com/joaosnet/Projeto4Fakepinterest/blob/main/images/1_APP.png"/>
+<img src="https://github.com/joaosnet/Projeto4Fakepinterest/blob/main/screenshots/homepage.png"/>
 
 ## Project Description
 
