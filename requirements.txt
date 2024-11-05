@@ -79,6 +79,6 @@ typing_extensions
 tzdata==2023.3
 urllib3==2.2.2
 wcwidth 
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 WTForms==3.0.1
 zipp 
